@@ -1,4 +1,7 @@
 # W.I.P. -> Converting from dbus-shelly-3em-smartmeter
+
+# all information beneath is from the original code, from Back2basic! i just edited some lines of codes to get the right energy usage values in Victron Venus OS
+
 # dbus-home-wizzard-energy-p1
 Integrate Home Wizzard Energy P1 meter into [Victron Energies Venus OS](https://github.com/victronenergy/venus)
 
